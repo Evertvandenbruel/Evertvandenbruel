@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://Evertvandenbruel.github.com/Evertvandenbruel/blog/2013/01/08/test/</loc>
-        <lastmod>2013-01-08T19:36:48+01:00</lastmod>
+        <loc>http://evertvdbruel.com/blog/2013/01/08/test/</loc>
+        <lastmod>2013-01-08T21:00:12+01:00</lastmod>
     </url>
     <url>
-        <loc>http://Evertvandenbruel.github.com/Evertvandenbruel/blog/archives/</loc>
-        <lastmod>2013-01-08T19:36:48+01:00</lastmod>
+        <loc>http://evertvdbruel.com/blog/archives/</loc>
+        <lastmod>2013-01-08T21:00:12+01:00</lastmod>
     </url>
     <url>
-        <loc>http://Evertvandenbruel.github.com/Evertvandenbruel/</loc>
-        <lastmod>2013-01-08T19:36:48+01:00</lastmod>
+        <loc>http://evertvdbruel.com/</loc>
+        <lastmod>2013-01-08T21:00:12+01:00</lastmod>
     </url>
     <url>
-        <loc>http://Evertvandenbruel.github.com/Evertvandenbruel/robots.txt</loc>
+        <loc>http://evertvdbruel.com/robots.txt</loc>
         <lastmod>2013-01-08T19:35:27+01:00</lastmod>
     </url>
 </urlset>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://Evertvandenbruel.github.com/Evertvandenbruel/atom.xml" rel="self"/>
-  <link href="http://Evertvandenbruel.github.com/Evertvandenbruel/"/>
-  <updated>2013-01-08T19:53:26+01:00</updated>
-  <id>http://Evertvandenbruel.github.com/Evertvandenbruel/</id>
+  <link href="http://evertvdbruel.com/atom.xml" rel="self"/>
+  <link href="http://evertvdbruel.com/"/>
+  <updated>2013-01-08T21:08:54+01:00</updated>
+  <id>http://evertvdbruel.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
-    <link href="http://Evertvandenbruel.github.com/Evertvandenbruel/blog/2013/01/08/test/"/>
+    <link href="http://evertvdbruel.com/blog/2013/01/08/test/"/>
     <updated>2013-01-08T19:36:00+01:00</updated>
-    <id>http://Evertvandenbruel.github.com/Evertvandenbruel/blog/2013/01/08/test</id>
+    <id>http://evertvdbruel.com/blog/2013/01/08/test</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

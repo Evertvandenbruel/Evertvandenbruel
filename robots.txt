@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Evertvandenbruel.github.com/Evertvandenbruel/sitemap.xml 
+Sitemap: http://evertvdbruel.com/sitemap.xml 
