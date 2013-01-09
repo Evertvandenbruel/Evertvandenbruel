@@ -4,7 +4,7 @@
   <title><![CDATA[evertvdbruel blog]]></title>
   <link href="http://evertvdbruel.com/atom.xml" rel="self"/>
   <link href="http://evertvdbruel.com/"/>
-  <updated>2013-01-09T21:57:45+01:00</updated>
+  <updated>2013-01-09T23:04:00+01:00</updated>
   <id>http://evertvdbruel.com/</id>
   <author>
     <name><![CDATA[Evertvdbruel]]></name>
@@ -14,11 +14,24 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test]]></title>
+    <title type="html"><![CDATA[Netflix outside America?]]></title>
     <link href="http://evertvdbruel.com/blog/2013/01/08/test/"/>
     <updated>2013-01-08T19:36:00+01:00</updated>
     <id>http://evertvdbruel.com/blog/2013/01/08/test</id>
-    <content type="html"><![CDATA[<p>test</p>
+    <content type="html"><![CDATA[<h1>Netflix outside America?</h1>
+
+<p>A few weeks ago I was wondering if it was possible to use Netflix in Belgium, so I started searching the web for ways to achieve this.</p>
+
+<p>I came across quite a VPN services during this quest but the one that looked the most promising to me <a href="http://hidemyass.com/vpn/r9744">hidemyass.com</a>(please note that is a referral link). One of the main reasons that I chose hidemyass was that you can configure it on a router so it&#8217;s possible to use Netflix(or any other country limited service) on your Playstation, Xbox, Apple TV,&#8230; but you can just install the client on your computer and use your browser.</p>
+
+<p>If you want to use a router for this you need that you can flash DD-WRT on (you can check it <a href="http://www.dd-wrt.com/site/support/router-database">here</a>). Since I didn&#8217;t have an old router I started looking online for a cheap router that I could use and bought the <a href="http://www.tp-link.com/en/products/details/?model=TL-WR1043ND">TP-Link TL-WR1043ND</a> on <a href="http://www.bol.com/nl/p/tp-link-tl-wr1043nd-300mbps-wireless-router/1003004011473203/">Bol.com</a>.
+Next I flashed the DD-WRT firmware on the router using the instructions found <a href="http://www.dd-wrt.com/wiki/index.php/Installation">here</a>.  After that I configured the hidemyass settings on the router like <a href="http://wiki.hidemyass.com/DD-WRT_L2TP_Setup">this</a>.
+When everything is setup correctly you can start exploring the American internet.</p>
+
+<p>By default the Netflix application is hidden on most non-American devices I guess for not frustrating users so you need to change the region to USA.</p>
+
+<p><em>Apple TV: Settings > General > iTunes Store > Location and choose United States
+</em>Playstation 3: <a href="http://us.playstation.com/psn/">create a new ps network account</a> and choose United States as region, log in on your device and download Netflix</p>
 ]]></content>
   </entry>
   
