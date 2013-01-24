@@ -9,7 +9,7 @@
   <meta name="author" content="Evert Van den Bruel">
 
   
-  <meta name="description" content="This post is a small tutorial on how to add Google maps v2 to your Android application. The v2 of the framework is a huge improvement over the v1 &hellip;">
+  <meta name="description" content="This post is a small tutorial on how to add Google maps v2 to your Android application. The v2 of the framework is a huge improvement over v1 since &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -102,20 +102,24 @@
   </header>
 
 
-<div class="entry-content"><p>This post is a small tutorial on how to add Google maps v2 to your Android application. The v2 of the framework is a huge improvement over the v1 since lacking all kinds of important features like gesture recognision, adding markers was realy annoying with ItemizedOverlay, &#8230;</p>
+<div class="entry-content"><p>This post is a small tutorial on how to add Google maps v2 to your Android application. The v2 of the framework is a huge improvement over v1 since it was lacking all kinds of important features like gesture recognision, adding markers was realy annoying with ItemizedOverlay, &#8230;</p>
 
-<p>So here are the steps needed to add Google Maps v2 to your application.</p>
+<h2>So here are the steps needed to add Google Maps v2 to your application.</h2>
 
-<p>The first thing you need is an Android project you can use an existing or create a new one. Once you&#8217;ve got the project you should download Google Play Services if you haven&#8217;t got them installed.</p>
+<p>The first thing you need is an Android project, you can use an existing or create a new one. Once you&#8217;ve got the project you should download Google Play Services if you haven&#8217;t got them installed.</p>
 
-<p>You can download via the Android SDK Manager (in Eclipse) wich is located at: Window => Android SDK Manager and &#8220;Google Play services&#8221; is located under extras.
+<p>You can download via the Android SDK Manager (in Eclipse) wich is located at: <em>Window => Android SDK Manager</em>, &#8220;Google Play services&#8221; is located under extras.<br/>
  <img src="/images/android-map-v2/android_sdk_manager.png"></p>
 
-<p>While downloading you can generate the API key goto the <a href="https://code.google.com/apis/console/">API console</a> and create a new project. You&#8217;ll be redirected to a page with a bunch of switches, search for Google Maps Android API v2 and turn it on.</p>
+<p>While downloading you can generate the API key, go to the <a href="https://code.google.com/apis/console/">API console</a> and create a new project. You&#8217;ll be redirected to a page with a bunch of switches, search for <em>Google Maps Android API v2</em> and turn it on.</p>
 
 <p> <img src="/images/android-map-v2/console_enable_v2.png"></p>
 
-<p>Once that is done you should open your terminal and get a SHA1 fingerprint of your debug key, so open a terminal window and enter <em>cd ~/.android</em> ,then <em>keytool -list -v -keystore debug.keystore</em> and copy the value after SHA1: <em>value to be copied</em>.</p>
+<p>Once that is done you should open your terminal and get a SHA1 fingerprint of your debug key, so open a terminal window and enter<br/>
+<em>cd ~/.android</em><br/>
+then<br/>
+<em>keytool -list -v -keystore debug.keystore</em><br/>
+and copy the value after SHA1: <em>value to be copied</em>.</p>
 
 <p> <img src="/images/android-map-v2/terminal_generate_sha1.png"></p>
 
