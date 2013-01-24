@@ -4,7 +4,7 @@
   <title><![CDATA[Evert Van den Bruel: Android, Ruby, technology and gadgets]]></title>
   <link href="http://evertvdbruel.com/atom.xml" rel="self"/>
   <link href="http://evertvdbruel.com/"/>
-  <updated>2013-01-17T20:27:08+01:00</updated>
+  <updated>2013-01-24T19:57:53+01:00</updated>
   <id>http://evertvdbruel.com/</id>
   <author>
     <name><![CDATA[Evert Van den Bruel]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google maps v2 on Android]]></title>
+    <link href="http://evertvdbruel.com/blog/2013/01/22/google-maps-v2-on-android/"/>
+    <updated>2013-01-22T19:59:00+01:00</updated>
+    <id>http://evertvdbruel.com/blog/2013/01/22/google-maps-v2-on-android</id>
+    <content type="html"><![CDATA[<p>File > new > Android Application Project</p>
+
+<p> <android-sdk-folder>/extras/google/google_play_services/.</p>
+
+<p> https://code.google.com/apis/console/</p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/activity_main.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/add_lib.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/add_lib_to_project.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/adding_persmision.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/android_sdk_manager.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/console_api_access.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/console_enable_v2.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/create_project.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/manifest_my_key.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/manifest_permissions.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/opengl.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/start_activity.png"></p>
+
+<p> <img src="http://evertvdbruel.com/images/android-map-v2/terminal_generate_sha1.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Netflix outside the United States?]]></title>
